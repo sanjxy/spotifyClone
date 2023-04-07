@@ -1,0 +1,107 @@
+
+.main{
+    font-family: 'Nunito Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+body{
+    text-align: center; 
+
+}
+
+#logo{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.btn{
+    width: 500px;
+    display: block;
+    margin: 50px auto 0;
+    
+}
+
+.btndesign{
+    height: 46.5px;
+    margin: 5px;
+    width: 500px;
+    border: 1px solid gray;
+    border-radius: 40px;
+    font-weight: bold;
+    padding: 7px 31px 7px 31px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.btndesign:hover{
+    border: 1px solid black;
+}
+
+
+.fb{
+    background: rgb(24, 119, 242);
+    color: white;
+}
+.apple{
+    background: black;
+    color: white;
+}
+
+.google, .phn {
+    color: gray;
+    background: white;
+}
+
+
+.orline{
+    margin-top: 10px;
+    font-size: small;
+    font-weight: bold;
+}
+.emailorusername{
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.email{
+    width: 430px;
+    height: 44px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    padding-right: 40px;
+    padding-left: 14px;
+}
+
+.forgotpass{
+    text-align: left;
+    font-size: smaller;
+    text-decoration: underline;
+}
+
+
+
+
+#login{
+    height: 48px;
+    padding: 0 35px;
+    border: 0;
+    border-radius: 29px;
+    background: #1ed760;
+    margin-left: 250px;
+    font-weight: bold;
+}
+.lastline{
+    margin-top: 20px;
+}
+.signup{
+    margin-top: 30px;
+}
+
+.signupbtn{
+    border: 1px solid black;
+    background: white;
+    color: gray;
+    font-weight: bold;
+}
